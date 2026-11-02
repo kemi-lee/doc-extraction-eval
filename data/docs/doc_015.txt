@@ -1,0 +1,10 @@
+BLUEHARBOR INSURANCE
+PRIOR AUTHORIZATION DETERMINATION
+
+Patient Name: Noah Chen
+Member ID: DW167877
+Authorization Number: PA-31567766
+Service Code (CPT): 97151
+Units Authorized: 80
+Effective: 02/10/2026 through 02/10/2027
+Determination: PENDING

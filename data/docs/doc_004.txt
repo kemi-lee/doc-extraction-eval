@@ -1,0 +1,10 @@
+EVERGREEN MUTUAL
+PRIOR AUTHORIZATION DETERMINATION
+
+Patient Name: Ethan Haddad
+Member ID: BW381707
+Authorization Number: PA-20014369
+Service Code (CPT): 97156
+Units Authorized: 40
+Effective: February 13, 2026 through August 12, 2026
+Determination: APPROVED

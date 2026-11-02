@@ -1,0 +1,11 @@
+Northwind Health Plan
+Utilization Management Department
+
+Dear Provider,
+
+We have completed our review of the request for Sofia Ward (subscriber ID HY374304).
+The request for CPT 97155, 80 units, has been approved.
+Reference #PA-69976769. Services covered from 01/11/2026 to 04/11/2026.
+
+Sincerely,
+Clinical Review Team

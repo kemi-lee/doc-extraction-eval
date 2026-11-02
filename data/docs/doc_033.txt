@@ -1,0 +1,10 @@
+BLUEHARBOR INSURANCE
+PRIOR AUTHORIZATION DETERMINATION
+
+Patient Name: Aaliyah Patel
+Member ID: HX758697
+Authorization Number: PA-39749479
+Service Code (CPT): 97155
+Units Authorized: 40
+Effective: February 8, 2026 through August 7, 2026
+Determination: APPROVED

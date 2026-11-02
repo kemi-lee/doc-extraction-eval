@@ -1,0 +1,11 @@
+Northwind Health Plan
+Utilization Management Department
+
+Dear Provider,
+
+We have completed our review of the request for Ethan Nguyen (subscriber ID FX511984).
+The request for CPT 97156, 120 units, is pending additional clinical review.
+Reference #PA-58413585. Services covered from 04/11/2026 to 04/11/2027.
+
+Sincerely,
+Clinical Review Team

@@ -1,0 +1,2 @@
+doc,template,ocr_noise,field,expected,got
+doc_039,0,True,diagnosis_code,F41.1,F41.l

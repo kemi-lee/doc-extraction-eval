@@ -1,0 +1,10 @@
+BLUEHARBOR INSURANCE
+PRIOR AUTHORIZATION DETERMINATION
+
+Patient Name: Maya Haddad
+Member ID: DZ667834
+Authorization Number: PA-58888654
+Service Code (CPT): 97156
+Units Authorized: 40
+Effective: June 8, 2026 through December 5, 2026
+Determination: PENDING

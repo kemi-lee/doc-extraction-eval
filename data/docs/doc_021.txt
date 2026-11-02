@@ -1,0 +1,10 @@
+BLUEHARBOR INSURANCE
+PRIOR AUTHORIZATION DETERMINATION
+
+Patient Name: Ethan Nguyen
+Member ID: AZ735251
+Authorization Number: PA-88472842
+Service Code (CPT): 97151
+Units Authorized: 40
+Effective: 2026-05-20 through 2027-05-20
+Determination: PENDING

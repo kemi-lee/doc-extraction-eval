@@ -1,0 +1,11 @@
+Northwind Health Plan
+Utilization Management Department
+
+Dear Provider,
+
+We have completed our review of the request for Maya Haddad (subscriber ID BX369500).
+The request for CPT 97153, 240 units, has been denied.
+Reference #PA-91284442. Services covered from 2026-07-27 to 2026-10-25.
+
+Sincerely,
+Clinical Review Team

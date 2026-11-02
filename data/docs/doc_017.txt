@@ -1,0 +1,10 @@
+SUMMIT CARE PARTNERS
+PRIOR AUTHORIZATION DETERMINATION
+
+Patient Name: Ethan Ward
+Member ID: EZ366397
+Authorization Number: PA-43209375
+Service Code (CPT): 97155
+Units Authorized: 40
+Effective: 03/04/2026 through 08/31/2026
+Determination: APPROVED

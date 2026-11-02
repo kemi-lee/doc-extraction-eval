@@ -1,0 +1,10 @@
+NORTHWIND HEALTH PLAN
+PRIOR AUTHORIZATION DETERMINATION
+
+Patient Name: Maya Rivera
+Member ID: AZ839844
+Authorization Number: PA-90271352
+Service Code (CPT): 97156
+Units Authorized: 80
+Effective: April 3, 2026 through September 30, 2026
+Determination: PENDING

@@ -1,0 +1,11 @@
+Northwind Health Plan
+Utilization Management Department
+
+Dear Provider,
+
+We have completed our review of the request for Jordan Rivera (subscriber ID BZ184686).
+The request for CPT 97155, 80 units, has been approved.
+Reference #PA-85313447. Services covered from 2026-06-19 to 2026-12-16.
+
+Sincerely,
+Clinical Review Team
